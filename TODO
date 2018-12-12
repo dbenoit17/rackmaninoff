@@ -1,0 +1,24 @@
+Feature Wishlist
+
+Easy
+- pickup measure
+- make key-signature a keyword in <#procedure:section>
+   instead of a label-function
+- contracts for composer-rsound procedures
+- make a module
+- find more things to test
+- scribble doc
+- Powerful instrument creator
+
+Medium
+-note duration ties
+-tonal transposition
+
+Probably Difficult
+- create instruments from soundfonts (sf2, sfz)
+- import/export .ly
+- import/export .mid
+- import/export music/xml
+ 
+Probably big enough to warrant a separate project
+- Graphical notation editor
